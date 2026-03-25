@@ -37,7 +37,7 @@ Arduino-based system with real-time alerts for safety and IoT integration.
 <h2 align="center">🧠 Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,arduino,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,arduino,git,github,vscode" />
 </p>
 
 ---
@@ -72,12 +72,12 @@ Arduino-based system with real-time alerts for safety and IoT integration.
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center">🏆 Aspirations</h2>
 
 <p align="center">
-🎓 Data Analysis Virtual Experience (STC × Misk Skills)<br/>
-👑 Batch Leader - Faculty of Engineering<br/>
-🧠 AI Engineering Student
+🎓 to be part of the development of the most advanced self-driving cars.
+👑 Making my own game.
+
 </p>
 
 ---
