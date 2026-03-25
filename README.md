@@ -1,40 +1,111 @@
-<h1 align="center">Hi 👋, I'm Nour El-Din Hassan</h1>
-<h3 align="center">AI Student | C++ & Python Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Nour+Eldin+Hassan+%F0%9F%91%8B;AI+Engineer;Building+Intelligent+Systems+%F0%9F%A7%A0;" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=thmsgbrt&label=Profile+Views&color=00F7FF&style=flat" />
+  <img src="https://img.shields.io/github/followers/thmsgbrt?label=Followers&style=social" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analyst-0A192F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 Student at the **Faculty of Artificial Intelligence**.
-- 🤖 Specialized in **Machine Learning** and **Robotics**.
-- 🛠️ Expert in **C++** (Primary) and **Python**.
-- 🔍 Passionate about solving complex AI problems.
-
-### 🛠️ Languages and Tools:
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
-
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true" alt="Nour's Stats" />
-</p>
+<h2 align="center">⚡ About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+AI Engineering student from Egypt 🇪🇬 <br/>
+I build intelligent systems, analyze data, and create real-world solutions.<br/>
+Focused on Machine Learning, Embedded Systems, and Problem Solving 🚀
 </p>
 
 ---
 
-### 📫 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+<h2 align="center">🚀 Featured Project</h2>
+
+<p align="center">
+<b>LeakALERT - Smart Gas Leakage Detection System</b><br/>
+Arduino-based system with real-time alerts for safety and IoT integration.
+</p>
+
+---
+
+<h2 align="center">🧠 Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,arduino,git,github,linux,vscode" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=thmsgbrt&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thmsgbrt&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmsgbrt&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<h2 align="center">🔥 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thmsgbrt&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmsgbrt&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thmsgbrt&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmsgbrt&theme=tokyonight"/>
+</p>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+🎓 Data Analysis Virtual Experience (STC × Misk Skills)<br/>
+👑 Batch Leader - Faculty of Engineering<br/>
+🧠 AI Engineering Student
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+<a href="https://github.com/thmsgbrt">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:nourhasan77@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<h2 align="center">⚡ Mindset</h2>
+
+<p align="center">
+I don't just write code...<br/>
+I build intelligent systems 🤖<br/>
+I solve real-world problems 🚀
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A192F&height=150&section=footer"/>
 </p>
