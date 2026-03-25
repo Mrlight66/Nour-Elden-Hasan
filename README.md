@@ -1,20 +1,26 @@
 <h1 align="center">Hi 👋, I'm Nour El-Din Hassan</h1>
-<h3 align="center">AI Student | Python & C++ Developer</h3>
+<h3 align="center">AI Student | C++ & Python Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
 ### 🚀 About Me
 - 🎓 Student at the **Faculty of Artificial Intelligence**.
-- 🤖 Interested in  **Machine Learning** and **Robotics**.
-- 🛠️ learned  **C++** and **Python**.
-- 🔍 Passionate about solving complex AI problems And learn new things .
+- 🤖 Specialized in **Machine Learning** and **Robotics**.
+- 🛠️ Expert in **C++** (Primary) and **Python**.
+- 🔍 Passionate about solving complex AI problems.
 
 ### 🛠️ Languages and Tools:
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> 
-
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+</p>
 
 ---
 
