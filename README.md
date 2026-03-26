@@ -19,7 +19,7 @@
 
 <p align="center">
 AI Engineering student from Egypt 🇪🇬 <br/>
-I build intelligent systems, analyze data, and create real-world solutions.<br/>
+I build intelligent systems and create real-world solutions.<br/>
 Focused on Machine Learning, Embedded Systems, and Problem Solving 🚀
 </p>
 
@@ -29,7 +29,8 @@ Focused on Machine Learning, Embedded Systems, and Problem Solving 🚀
 
 <p align="center">
 <b>LeakALERT - Smart Gas Leakage Detection System</b><br/>
-Arduino-based system with real-time alerts for safety and IoT integration.
+<b>Arduino-based system with real-time alerts for safety and IoT integration.</b><br/>
+<b>Arduino system for a robotic hand</b><br/>
 </p>
 
 ---
