@@ -95,7 +95,7 @@ Focused on Machine Learning, Embedded Systems, and Problem Solving 🚀
 
 <a href="mailto:nourhasan77@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmsgbrt&theme=tokyonight"/>
 </p>
 
 ---
