@@ -70,7 +70,7 @@ Focused on Machine Learning, Embedded Systems, and Problem Solving 🚀
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thmsgbrt&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmsgbrt&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -78,8 +78,9 @@ Focused on Machine Learning, Embedded Systems, and Problem Solving 🚀
 <h2 align="center">🏆 Aspirations</h2>
 
 <p align="center">
-🎓 to be part of the development of the most advanced self-driving cars.
+🎓 to be part of the automotive industry.
 👑 Making my own game.
+👑 Making my own company.  
 
 </p>
 
