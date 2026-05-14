@@ -58,20 +58,6 @@ Focused on Machine Learning, Embedded Systems, and Problem Solving 🚀
 
 ---
 
-<h2 align="center">🔥 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thmsgbrt&theme=tokyo-night&area=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmsgbrt&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thmsgbrt&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -95,7 +81,7 @@ Focused on Machine Learning, Embedded Systems, and Problem Solving 🚀
 
 <a href="mailto:nourhasan77@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thmsgbrt&theme=tokyonight"/>
+
 </p>
 
 ---
