@@ -31,6 +31,8 @@ Focused on Machine Learning, Embedded Systems, and Problem Solving 🚀
 <b>LeakALERT - Smart Gas Leakage Detection System</b><br/>
 <b>Arduino-based system with real-time alerts for safety and IoT integration.</b><br/>
 <b>Arduino system for a robotic hand</b><br/>
+<b>Made a supermarket system using Python</b><br/>
+  
 </p>
 
 ---
