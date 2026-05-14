@@ -56,10 +56,7 @@ Focused on Machine Learning, Embedded Systems, and Problem Solving 🚀
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmsgbrt&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-
----
 
 <h2 align="center">🏆 Aspirations</h2>
 
